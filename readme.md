@@ -1,11 +1,11 @@
 # Al-Akhi - NGO's Portal
 
 <div style="display: flex; gap: 10px;">
+    <img src="./img/4.png" style="width: 200px;" alt="Image 4">
     <img src="./img/1.png" style="width: 200px;" alt="Image 1">
     <img src="./img/2.png" style="width: 200px;" alt="Image 2">
     <img src="./img/3.png" style="width: 200px;" alt="Image 3">
-    <img src="./img/4.png" style="width: 200px;" alt="Image 4">
-</div>
+    </div>
 
 
 A comprehensive portal designed to streamline the process of gathering donations and managing volunteers through user-friendly forms. The platform also showcases the names of dedicated volunteers who have contributed to various NGO initiatives, fostering a sense of community and recognition.
