@@ -1,7 +1,7 @@
 # Al-Akhi - NGO's Portal
 
 <div style="display: flex; gap: 10px;">
-    <img src="./img/4.png" style="width: 300px;" alt="Image 4">
+    <img src="./img/4.png" style="width: 250px;" alt="Image 4">
     <img src="./img/1.png" style="width: 200px;" alt="Image 1">
     <img src="./img/2.png" style="width: 200px;" alt="Image 2">
     <img src="./img/3.png" style="width: 200px;" alt="Image 3">
